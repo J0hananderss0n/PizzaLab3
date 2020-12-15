@@ -1,6 +1,6 @@
 # PizzaLab3
 
-Andree Mattsson och Johan andersson
+Andree Mattsson och Johan Andersson
 
 Singleton : Användes för att bara skapa en Mockdata till projektet
 
